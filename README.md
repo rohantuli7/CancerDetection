@@ -10,6 +10,26 @@ This project consists of three salient steps:
 2. Texture feature extraction
 3. Machine Learning
 
+## Methods
+
 The project has experimented the following methods:
 
 ![Methods](/images/methods.png?raw=true "Methods experimented")
+
+## Project flowchart
+
+The optimal flow after experimentation is as follows:
+
+![Flow](/images/flow.jpg?raw=true "Project flow")
+
+## UML
+
+The project can be depicted using the following UML diagrams:
+
+1. Use case
+
+![UseCase](/images/use_case.png?raw=true "Use Case Diagram")
+
+2. Sequence
+
+![Sequence](/images/sequence.png?raw=true "Sequence Diagram")
