@@ -10,4 +10,6 @@ This project consists of three salient steps:
 2. Texture feature extraction
 3. Machine Learning
 
-## Image preprocessing
+The project has experimented the following methods:
+
+![Methods](/images/methods.png?raw=true "Methods experimented")
